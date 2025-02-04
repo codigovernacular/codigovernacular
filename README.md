@@ -1,7 +1,7 @@
 -  Hi, I’m @codigovernacular
   
 -  I'm interested in ...
-   Linguagens que instruem máquinas a executar tarefas específicas. Linguagem visual. Linguagem natural.
+   Linguagens que instruem microcontroladores a executar tarefas específicas. Linguagem visual. Linguagem natural.
 - I’m currently learning ...
   A linguagem desempenha papel fundamental no aprendizado, pois é a ferramenta principal através da qual comunicamos ideias, trocamos informações e adquirimos novos conhecimentos.
 
