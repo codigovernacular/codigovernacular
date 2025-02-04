@@ -10,7 +10,7 @@
 
 -  I’m looking to collaborate on ...
 
-   Ampliar possibilidades estéticas e poéticas, facilitar avanços criativos e tecnológicos.
+   Ampliar possibilidades,  facilitar avanços criativos e tecnológicos.
 
 
 <!---
