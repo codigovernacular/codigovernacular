@@ -1,7 +1,7 @@
 -  Hi, I’m @codigovernacular
   
 -  I'm interested in ...
-   Linguagens de programação que instruem microcontroladores a executar tarefas específicas. Linguagem visual. Linguagem natural.
+  Sistemas embarcados. Linguagens de programação. Microcontroladores. Linguagem visual. Linguagem natural.
 - I’m currently learning ...
   A linguagem desempenha papel fundamental no aprendizado, pois é a ferramenta principal através da qual comunicamos ideias, trocamos informações e adquirimos novos conhecimentos.
 
