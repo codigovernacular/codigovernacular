@@ -1,7 +1,7 @@
 -  Hi, I’m @codigovernacular
   
 -  I'm interested in ...
-  Sistemas embarcados. Linguagens de programação. Programação criativa. Design imersivo. Microcontroladores. Sensores. Atuadores. Linguagem visual. Linguagem natural.
+  Sistemas embarcados. Linguagens de programação. Programação criativa. Design imersivo. Microcontroladores. Sensores. Atuadores. Linguagem visual. Linguagem natural. Experimentos não comerciais.
 - I’m currently learning ...
   A linguagem desempenha papel fundamental no aprendizado, pois é a ferramenta principal através da qual comunicamos ideias, trocamos informações e adquirimos novos conhecimentos.
 
